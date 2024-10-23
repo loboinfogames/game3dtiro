@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 351f8c28e9ff3054f942d9842365ea9b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm1_L
+    100002: Arm1_R
+    100004: Arm1IK_L
+    100006: Arm1IK_R
+    100008: Arm2_L
+    100010: Arm2_R
+    100012: Arm2IK_L
+    100014: Arm2IK_R
+    100016: Arm3_L
+    100018: Arm3_R
+    100020: Arm3IKTarget_L
+    100022: Arm3IKTarget_R
+    100024: Armature
+    100026: Body
+    100028: Foot_L
+    100030: Foot_R
+    100032: Head
+    100034: Head_IK
+    100036: Hip
+    100038: Jaw
+    100040: Jawparent
+    100042: Leg1_L
+    100044: Leg1_R
+    100046: Leg1IK_L
+    100048: Leg1IK_R
+    100050: Leg2_L
+    100052: Leg2_L.001
+    100054: Leg2_R
+    100056: Leg2_R.001
+    100058: Leg2IK_L
+    100060: Leg2IK_R
+    100062: Leg3_L
+    100064: Leg3_R
+    100066: Leg3IK_L
+    100068: Leg3IK_R
+    100070: Leg3IKTarget_L
+    100072: Leg3IKTarget_R
+    100074: Neck
+    100076: Neck.001
+    100078: Neck.002
+    100080: Root
+    100082: Tail1
+    100084: Tail2
+    100086: Tail3
+    100088: Tail4
+    100090: //RootNode
+    100092: Velociboi
+    400000: Arm1_L
+    400002: Arm1_R
+    400004: Arm1IK_L
+    400006: Arm1IK_R
+    400008: Arm2_L
+    400010: Arm2_R
+    400012: Arm2IK_L
+    400014: Arm2IK_R
+    400016: Arm3_L
+    400018: Arm3_R
+    400020: Arm3IKTarget_L
+    400022: Arm3IKTarget_R
+    400024: Armature
+    400026: Body
+    400028: Foot_L
+    400030: Foot_R
+    400032: Head
+    400034: Head_IK
+    400036: Hip
+    400038: Jaw
+    400040: Jawparent
+    400042: Leg1_L
+    400044: Leg1_R
+    400046: Leg1IK_L
+    400048: Leg1IK_R
+    400050: Leg2_L
+    400052: Leg2_L.001
+    400054: Leg2_R
+    400056: Leg2_R.001
+    400058: Leg2IK_L
+    400060: Leg2IK_R
+    400062: Leg3_L
+    400064: Leg3_R
+    400066: Leg3IK_L
+    400068: Leg3IK_R
+    400070: Leg3IKTarget_L
+    400072: Leg3IKTarget_R
+    400074: Neck
+    400076: Neck.001
+    400078: Neck.002
+    400080: Root
+    400082: Tail1
+    400084: Tail2
+    400086: Tail3
+    400088: Tail4
+    400090: //RootNode
+    400092: Velociboi
+    4300000: Velociboi
+    7400000: Armature|Bite
+    7400002: Armature|Claw
+    7400004: Armature|Idle
+    7400006: Armature|Run
+    9500000: //RootNode
+    13700000: Velociboi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Velociboi
+    second: {fileID: 2100000, guid: 82dc038efa5b06742a766e3845b7bd2e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Bite
+      takeName: Armature|Bite
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Claw
+      takeName: Armature|Claw
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

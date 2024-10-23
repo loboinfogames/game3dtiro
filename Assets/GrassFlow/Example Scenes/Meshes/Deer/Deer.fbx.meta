@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: f8e6c6d2824dbcb418af1f51ac014820
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: c_ear_01.l
+    100002: c_ear_01.r
+    100004: c_skull_01.x
+    100006: c_skull_02.x
+    100008: c_skull_03.x
+    100010: c_subneck_1.x
+    100012: c_subneck_2.x
+    100014: c_tail_00.x
+    100016: c_thigh_b.l
+    100018: c_thigh_b.r
+    100020: c_thigh_b_dupli_001.l
+    100022: c_thigh_b_dupli_001.r
+    100024: cc_jaw
+    100026: //RootNode
+    100028: Deer
+    100030: Deer_Body
+    100032: Deer_Horns
+    100034: foot.l
+    100036: foot.r
+    100038: foot_dupli_001.l
+    100040: foot_dupli_001.r
+    100042: head.x
+    100044: leg_stretch.l
+    100046: leg_stretch.r
+    100048: leg_stretch_dupli_001.l
+    100050: leg_stretch_dupli_001.r
+    100052: leg_twist.l
+    100054: leg_twist.r
+    100056: leg_twist_dupli_001.l
+    100058: leg_twist_dupli_001.r
+    100060: neck.x
+    100062: root.x
+    100064: spine_01.x
+    100066: spine_02.x
+    100068: spine_03.x
+    100070: thigh_stretch.l
+    100072: thigh_stretch.r
+    100074: thigh_stretch_dupli_001.l
+    100076: thigh_stretch_dupli_001.r
+    100078: thigh_twist.l
+    100080: thigh_twist.r
+    100082: thigh_twist_dupli_001.l
+    100084: thigh_twist_dupli_001.r
+    100086: toes_01.l
+    100088: toes_01.r
+    100090: toes_01_dupli_001.l
+    100092: toes_01_dupli_001.r
+    400000: c_ear_01.l
+    400002: c_ear_01.r
+    400004: c_skull_01.x
+    400006: c_skull_02.x
+    400008: c_skull_03.x
+    400010: c_subneck_1.x
+    400012: c_subneck_2.x
+    400014: c_tail_00.x
+    400016: c_thigh_b.l
+    400018: c_thigh_b.r
+    400020: c_thigh_b_dupli_001.l
+    400022: c_thigh_b_dupli_001.r
+    400024: cc_jaw
+    400026: //RootNode
+    400028: Deer
+    400030: Deer_Body
+    400032: Deer_Horns
+    400034: foot.l
+    400036: foot.r
+    400038: foot_dupli_001.l
+    400040: foot_dupli_001.r
+    400042: head.x
+    400044: leg_stretch.l
+    400046: leg_stretch.r
+    400048: leg_stretch_dupli_001.l
+    400050: leg_stretch_dupli_001.r
+    400052: leg_twist.l
+    400054: leg_twist.r
+    400056: leg_twist_dupli_001.l
+    400058: leg_twist_dupli_001.r
+    400060: neck.x
+    400062: root.x
+    400064: spine_01.x
+    400066: spine_02.x
+    400068: spine_03.x
+    400070: thigh_stretch.l
+    400072: thigh_stretch.r
+    400074: thigh_stretch_dupli_001.l
+    400076: thigh_stretch_dupli_001.r
+    400078: thigh_twist.l
+    400080: thigh_twist.r
+    400082: thigh_twist_dupli_001.l
+    400084: thigh_twist_dupli_001.r
+    400086: toes_01.l
+    400088: toes_01.r
+    400090: toes_01_dupli_001.l
+    400092: toes_01_dupli_001.r
+    4300000: Deer_Horns
+    4300002: Deer_Body
+    7400000: Deer|RefPose
+    7400002: Deer|Gallop
+    7400004: Deer|DeerSideHops
+    7400006: Deer|Deer_Grazing
+    7400008: Deer|Deer_Scare
+    9500000: //RootNode
+    13700000: Deer_Body
+    13700002: Deer_Horns
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deer_Body
+    second: {fileID: 2100000, guid: ef3bafc9a5edbbc4e9fdfeefac9a76b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deer_Eyes
+    second: {fileID: 2100000, guid: 0308371198b936c4baca18ebb792c6f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deer_Horns
+    second: {fileID: 2100000, guid: ef3bafc9a5edbbc4e9fdfeefac9a76b3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Deer_Emissive_1001
+    second: {fileID: 2800000, guid: 34bedca413df58c499634cdb1160012f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Deer_Metalness_1001
+    second: {fileID: 2800000, guid: b8de8acb8d84df748848c159e6b1abb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Deer_Normal_1001
+    second: {fileID: 2800000, guid: c91531fbd3904ab4b92dc861fe3e40fb, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Deer|RefPose
+      takeName: Deer|RefPose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Deer|Gallop
+      takeName: Deer|Gallop
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Deer|DeerSideHops
+      takeName: Deer|DeerSideHops
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Deer|Deer_Grazing
+      takeName: Deer|Deer_Grazing
+      firstFrame: 0
+      lastFrame: 729
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Deer|Deer_Scare
+      takeName: Deer|Deer_Scare
+      firstFrame: 0
+      lastFrame: 266
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root.x
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
